@@ -1,8 +1,16 @@
 {
   "folders": [
     {
-      "path": "nestjs",
-      "name": "nestjs"
+      "path": "node-nestjs",
+      "name": "node-nestjs"
+    },
+    {
+      "path": "go-gin",
+      "name": "go-gin"
+    },
+    {
+      "path": "rust-rocket",
+      "name": "rust-rocket"
     },
     {
       "path": ".",
@@ -23,7 +31,9 @@
       "**/CVS": true,
       "**/.DS_Store": true,
       "**/Thumbs.db": true,
-      "nestjs": true
+      "node-nestjs": true,
+      "go-gin": true,
+      "rust-rocket": true
     }
   }
 }
